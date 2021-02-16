@@ -1,0 +1,16 @@
+
+/* ----------- Tablets larger than 768px wide ----------- */
+/*  This code sets the background to red on ALL browsers that are larger than 768px*/
+@media (min-width: 768px) {
+	body {
+    background: red;
+  }
+}
+
+/* ----------- Monitors larger than 1200px wide ----------- */
+/*  This code sets the background to purple on ALL browsers that are larger than 1200px*/
+@media (min-width: 1200px) {
+  body {
+    background: purple;
+  }
+}
